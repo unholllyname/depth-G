@@ -7,6 +7,8 @@ conda create -n nama_env python=3.7.15
 ```
 * Clone repositories : https://github.com/riswan29/depth-G.git
 
+* Download yolov3.weight : https://drive.google.com/file/d/1HX62CMSWhkX4Hoi148LKhyGvzqyepNdP/view?usp=sharing
+
 * ketik 
 
 ```
