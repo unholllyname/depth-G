@@ -10,7 +10,7 @@ conda create -n nama_env python=3.7.15
 * ketik 
 
 ```
-cd depth-G
+cd depth-G 
 ```
 
 * Install semua package dari file req.txt 
