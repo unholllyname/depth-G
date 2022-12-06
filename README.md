@@ -10,7 +10,7 @@ conda create -n nama_env python=3.7.15
 ```
 pip install -r req.txt
 ```
-
+<p>Download file model yolov3.cfg dan yolov3.weights dari link : </p>
 <p>Jika anda menggunakan linux anda perlu menginstall tambahan package</p>
 
 ```
