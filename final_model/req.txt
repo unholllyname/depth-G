@@ -1,0 +1,7 @@
+python==3.7.15
+gTTS=2.3.0
+imutils=0.5.4
+ipython=7.34.0
+numpy=1.21.6
+opencv-python=4.6.0.66
+pydub=0.25.1
